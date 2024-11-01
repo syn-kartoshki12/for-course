@@ -1,0 +1,166 @@
+<mxfile host="Electron" modified="2024-10-18T15:54:18.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="2-xHkJi3Fv3WlgL1beIC" version="22.0.3" type="device">
+  <diagram name="Страница — 1" id="ucrKcSAPmvHGQdn826nn">
+    <mxGraphModel dx="1646" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-1" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Пользователь передумал&amp;nbsp; управлять рекламой&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KBNfjdREeZOjGe3RYSJv-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="260" as="sourcePoint" />
+            <mxPoint x="-470" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: initial;&quot;&gt;Trigger: Пользователь решил добавить/удалить рекламодателя&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Condition: Корректный ввод данных рекламодателя. Наличие рекламодателя, в случае, если пользователь захочет удалить его&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="150" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KBNfjdREeZOjGe3RYSJv-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="260" as="sourcePoint" />
+            <mxPoint x="-200" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-5" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;Пользователь отменил действие&amp;nbsp;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KBNfjdREeZOjGe3RYSJv-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="380" as="sourcePoint" />
+            <mxPoint x="-300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-7" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: initial;&quot;&gt;Trigger: Пользователь добавил&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;рекламодателя&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Condition: Корректный ввод данных рекламодателя&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KBNfjdREeZOjGe3RYSJv-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="350" as="sourcePoint" />
+            <mxPoint x="-60" y="273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-9" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-10" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-11" value="Отменено" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-13" target="KBNfjdREeZOjGe3RYSJv-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-540" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-13" value="Отсутствие" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: initial;&quot;&gt;В процессе добавления/удаления&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entry: Открывается окно добавления/удаления рекламодателя&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;do: Добавляется/Удаляется рекламодатель&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Exit: Уведомление об успешном/неуспешном выполнении действия&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="280" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: initial;&quot;&gt;В процессе выбора частоты рекламы&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;entry: Открывается окно выбора частоты рекламы&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;do: Выбирается частота рекламы&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exit:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Уведомление об успешном/неуспешном выполнении действия&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="360" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-13" target="KBNfjdREeZOjGe3RYSJv-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-530" y="430" as="targetPoint" />
+            <mxPoint x="-530" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.902;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-10" target="KBNfjdREeZOjGe3RYSJv-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-520" y="440" as="targetPoint" />
+            <mxPoint x="-520" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-250" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-14" target="KBNfjdREeZOjGe3RYSJv-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="450" as="targetPoint" />
+            <mxPoint x="-510" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-14" target="KBNfjdREeZOjGe3RYSJv-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-500" y="460" as="targetPoint" />
+            <mxPoint x="-500" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="380" />
+              <mxPoint x="-380" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-11" target="KBNfjdREeZOjGe3RYSJv-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-470" y="490" as="targetPoint" />
+            <mxPoint x="-470" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-15" target="KBNfjdREeZOjGe3RYSJv-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="370" as="targetPoint" />
+            <mxPoint x="-110" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-380" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-22" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: initial;&quot;&gt;Trigger: Пользователь выбрал частоту&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Condition:&amp;nbsp;эфир&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;не слишком загружен рекламой&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=120;entryDy=25;entryPerimeter=0;" parent="1" target="KBNfjdREeZOjGe3RYSJv-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="450" as="sourcePoint" />
+            <mxPoint x="-380" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-26" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: initial;&quot;&gt;Trigger: Пользователь удалил рекламодателя&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Condition:&amp;nbsp;Наличие рекламодателя&lt;/span&gt;&lt;/div&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="180" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="KBNfjdREeZOjGe3RYSJv-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="340" as="sourcePoint" />
+            <mxPoint x="70" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-29" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-15" target="KBNfjdREeZOjGe3RYSJv-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="370" as="targetPoint" />
+            <mxPoint x="-30" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-30" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Пользователь отменил&amp;nbsp; выбор частоты&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=10;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=120;entryDy=25;entryPerimeter=0;" parent="1" target="KBNfjdREeZOjGe3RYSJv-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="400" as="sourcePoint" />
+            <mxPoint x="-510" y="393" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-32" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 7px; background-color: initial;&quot;&gt;Рекламодатель удалён&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;exit: Уведомление об успешном удалении рекламодателя&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="90" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-14" target="KBNfjdREeZOjGe3RYSJv-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="550" as="targetPoint" />
+            <mxPoint x="30" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBNfjdREeZOjGe3RYSJv-35" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KBNfjdREeZOjGe3RYSJv-32" target="KBNfjdREeZOjGe3RYSJv-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="390" as="targetPoint" />
+            <mxPoint x="-50" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
